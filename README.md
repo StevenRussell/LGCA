@@ -1,1 +1,1 @@
-# LGCA
+# Latent Growth Class Analysis
